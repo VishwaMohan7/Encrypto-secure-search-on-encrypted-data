@@ -347,6 +347,3 @@ Yeshrutha S
 
 ```
 
-
-Just tell me 👍
-```
